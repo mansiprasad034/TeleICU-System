@@ -1,0 +1,4 @@
+train: data_images/train
+val: data_images/test
+nc: 14
+names: ['patient', 'on_monitor', 'doctor', 'visitor', 'nurse', 'empty_bed', 'off_monitor', 'empty_room', 'monitor', 'off_montior', 'docter', 'monitor2', 'doctor1', 'doctor2']
